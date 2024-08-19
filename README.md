@@ -19,15 +19,15 @@
    
 2. **Compile the program**
    
- ```bash
+    ```bash
    javac BoyerMoore.java
-```
+   ```
    
 3. **Run the program**
  
-```bash
+   ```bash
    java BoyerMoore
-```
+   ```
 
 ## Sample Output
 
