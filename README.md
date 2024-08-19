@@ -3,6 +3,8 @@
 - Explore the Boyer-Moore String Matching Algorithm with the Bad Character Heuristic.
 - Skips unnecessary comparisons.
 
+<img width="569" alt="Screenshot 2024-08-19 at 5 39 06 PM" src="https://github.com/user-attachments/assets/e339324e-def8-4b78-a01c-15fa47a31d7a">
+
 ## Prerequisites
 
 - Java Development Kit (JDK). [Download from Oracle](https://www.oracle.com/java/technologies/javase-downloads.html).
