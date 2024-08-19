@@ -17,17 +17,14 @@
    git clone https://github.com/Lithia22/CPT212_Assignment_1.git
    ```
    
-2. **Compile the program**
+2. **Navigate to the project directory**
    
    ```bash 
-   javac BoyerMoore.java
+   cd CPC251_Project_Part1_Cancer3
    ```
    
-3. **Run the program**
-   
-   ```bash
-   java BoyerMoore
-   ```
+3. **Run notebooks:** Open `.ipynb` files and run the cells.
+
 
 ## Sample Output
 
