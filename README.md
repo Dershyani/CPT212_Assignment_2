@@ -26,3 +26,34 @@
    ```bash
    java BoyerMoore
    ```
+
+## Sample Output
+
+### Case 1: Pattern Found
+
+**Scenario 1: Non-Repetitive Pattern**
+
+- **Text:** BAD CHARACTER TABLE
+- **Pattern:** TABLE
+
+  Output:
+  - `All characters match, so the pattern "TABLE" is found at index 14 in the text.`
+  - `Total occurences of the pattern in the text: 1`
+
+**Scenario 2: Repetitive Pattern**
+
+- **Text:** AABAACAADAABAABA
+- **Pattern:** AABA
+
+  Output:
+  - `All characters match, so the pattern "AABA" is found at index 0 in the text.`
+  - `All characters match, so the pattern "AABA" is found at index 9 in the text.`
+  - `All characters match, so the pattern "AABA" is found at index 12 in the text.`
+  - `Total occurences of the pattern in the text: 3`
+
+### Case 2: No Pattern Found
+
+- **Text:** Boyer Moore
+- **Pattern:** Algo
+
+  Output: `No such pattern is found in the text`
