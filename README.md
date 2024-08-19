@@ -5,7 +5,7 @@
 
 ## Prerequisites
 
-Java Development Kit (JDK) installed. Download from Oracle.
+- Java Development Kit (JDK). [Download from Oracle](https://www.oracle.com/java/technologies/javase-downloads.html).
 
 ## How To Use
 
