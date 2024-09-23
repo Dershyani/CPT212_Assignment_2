@@ -14,12 +14,12 @@
 1. **Clone the repository**
    
    ```bash
-   git clone https://github.com/Lithia22/CPT212_Assignment_1.git
+   git clone https://github.com/Lithia22/CPT212_Assignment_2.git
    ```
 
 2. **Navigate to the project directory**
    ```bash
-   CPT212_Assignment_1/BoyerMoore
+   cd CPT212_Assignment_2
    ```
    
 3. **Compile the program**
