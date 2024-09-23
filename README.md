@@ -16,14 +16,19 @@
    ```bash
    git clone https://github.com/Lithia22/CPT212_Assignment_1.git
    ```
+
+2. **Navigate to the project directory**
+   ```bash
+   CPT212_Assignment_1/BoyerMoore
+   ```
    
-2. **Compile the program**
+3. **Compile the program**
    
     ```bash
    javac BoyerMoore.java
    ```
    
-3. **Run the program**
+4. **Run the program**
  
    ```bash
    java BoyerMoore
